@@ -30,15 +30,14 @@ Before you submit your pull request (PR) consider the following guidelines:
 
 - Search GitHub for an open or closed issue or PR that relates to your
   submission.
-- Fork barista into your namespace by using the fork button on github.
+- Fork PROJECT NAME into your namespace by using the fork button on github.
 - Make your changes in a new git branch: `git checkout -b my-fix-branch master`
 - Create your patch/fix/feature including appropriate tests.
 - Test your changes with our supported browsers.
 - Follow our
-  [coding standards](https://barista.dynatrace.com/components/coding-standards/).
+  ADD CODING STANDARDS.
 - Document all public API methods and properties.
-- Run unit, UI and universal tests, as described in the
-  [developer documentation](https://barista.dynatrace.com/components/development/),
+- Run unit, UI and universal tests, as described in the DOCUMENTATION,
   and ensure that all tests pass.
 - Commit your changes using a descriptive commit message that follows our
   [commit message conventions](#commit-message-guidelines).
@@ -64,7 +63,7 @@ Once your pull request is approved and ready to merge, it gets marked as
 repository administrators (assignee).
 
 If the PR contains a patch or bug fix, it is released with the next version of
-the Barista components library.
+the PROJECT NAME.
 
 If the PR contains a [breaking change](#breaking-changes), it is released with
 the next major version upgrade.
@@ -170,8 +169,8 @@ flag it for the codeowners/admins to review.
 
 ### Review
 
-Now the review process kicks in. Depending on the scope of the PR one or more
-[codeowners](https://github.com/dynatrace-oss/barista/blob/master/.github/CODEOWNERS)
+Now the review process kicks in. Depending on the scope of the PR one or more 
+CODE OWNER
 must review this PR before the process can be continued (in most cases at least
 2 codeowners will review and approve).
 
