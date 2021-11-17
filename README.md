@@ -1,2 +1,2 @@
-# template
-Template repository for open-source projects at Dynatrace
+# Template Project
+Template repository for open-source projects at Dynatrace.
