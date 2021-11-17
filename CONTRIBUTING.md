@@ -90,7 +90,7 @@ Must be one of the following:
 - **build**: Changes that affect the build system like npm scripts or
   angular-cli related changes
 - **chore**: Other changes that don't modify src or test files
-- **barista**: Changes that affect the design system app/build
+- **PROJECT NAME**: Changes that affect the design system app/build
 - **ds**: Changes that affect the design system app/build
 
 ### Scope
