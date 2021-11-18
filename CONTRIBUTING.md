@@ -1,4 +1,4 @@
-# Contributing to Barista
+# Contributing to PROJECT NAME
 
 ## Found a bug?
 
