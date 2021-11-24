@@ -4,7 +4,7 @@
 
 If you find a bug/issue in the source code or a mistake in the documentation,
 you can help us by
-[creating an issue](https://github.com/dynatrace-oss/barista/issues/new/choose)
+[creating an issue](https://github.com/dynatrace-oss/PROJECTNAME/issues/new/choose)
 here on GitHub. Please provide an issue reproduction. Screenshots are also
 helpful.
 
@@ -14,12 +14,12 @@ You can help the team even more and
 ## Want a feature?
 
 You can request a new feature also by
-[creating an issue](https://github.com/dynatrace-oss/barista/issues/new/choose).
+[creating an issue](https://github.com/dynatrace-oss/PROJECTNAME/issues/new/choose).
 
 - For a **major feature** (e.g. a new component), first open an issue and
   outline your proposal so that it can be discussed before you start with the
   implementation. Screenshots are helpful. If there is an agreement that this
-  feature should be part of the Barista components library, either you or the
+  feature should be part of the PROJECTNAME, either you or the
   team will take this issue, create an API proposal, implement it and
   [submit a pull request](#submitting-a-pull-request).
 - Small features can be crafted and directly submitted as a pull request.
