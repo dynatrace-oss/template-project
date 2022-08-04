@@ -1,3 +1,6 @@
+> **Note**
+> This product is not officially supported by Dynatrace!
+
 # :tada: :tada: Welcome to your new Project on GitHub :tada: :tada:
 
 Congratulations, your project on GitHub was successfully created and you can start your Open Source Adventure!
@@ -8,6 +11,10 @@ As each adventure starts with good preparations, we also have something we would
 - [ ] Write your own ReadMe which reflects your project
 - [ ] Check if the [default community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)(CONTRIBUTING.md, SECURITY.md, CODE_OF_CONDUCT.md, ..) within the organization `.github`[-project](https://github.com/dynatrace-oss/.github/) match your project's needs. If not, you can always provide your own, but we kindly ask you, that you also update those from time to time.
 - [ ] Check if there is a `LICENSE` file within your project. If not, please create one containing the `Apache License 2.0`.
+- [ ] Explicitly state that this project is not officially supported by Dynatrace in your ReadMe, eg. by using following lines on top of your ReadMe:
+    
+    > **Note**
+    > This product is not officially supported by Dynatrace!
 
 ## How can I make my project public?
 
